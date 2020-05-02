@@ -1,3 +1,4 @@
 # hello-world
-Just another repository
-my name is Hiroki Nakanishi
+git add goodmorning.html
+
+git commit -m "add file goodmorning"
